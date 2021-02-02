@@ -3,9 +3,6 @@ layout: home
 title: Relic
 ---
 
-Goto [this](albums/Tele.html) page
 
-# This is the Relic Page
-
-* test
-* test 2
+# Vintage Guitars
+* [1951 Lefty Fender Telecaster Butterscotch](albums/51Telecaster.html)
