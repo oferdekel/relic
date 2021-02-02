@@ -1,9 +1,9 @@
 ---
 layout: album
-title: 1955 Fender Stratocaster Two-Tone Sunburst
+title: 1955 Fender Stratocaster Sunburst
 ---
 
-# 1955 Fender Stratocaster Two-Tone Sunburst
+# 1955 Fender Stratocaster Sunburst
 
 ![](https://images.reverb.com/image/upload/s--4ydW4BUy--/f_auto,t_supersize/v1584779544/rh6hvfmyca2flvdsqrym.jpg)
 ![](https://images.reverb.com/image/upload/s--5fTVuBip--/f_auto,t_supersize/v1584779541/wixqfxm0mpetctxkitf7.jpg)
