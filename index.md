@@ -1,3 +1,9 @@
-# This is a new test  
+---
+layout: home
+title: Relic
+---
 
-New newnew
+# This is the Relic Page
+
+* test
+* test 2
