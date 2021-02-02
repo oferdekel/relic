@@ -1,8 +1,7 @@
 ---
-layout: default
+layout: album
 title: 1951 Lefty Fender Telecaster Butterscotch
 ---
-
 
 # 1951 Lefty Fender Telecaster Butterscotch
 
