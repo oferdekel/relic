@@ -25,4 +25,4 @@ title: Relic
 * [Fender Custom Shop 1952 Telecaster Heavy Relic Aged 2-Tone White Blonde](albums/relic/Telecaster_b.html)
 * [More Fender Stratocasters](albums/relic/Stratocasters.html)
 * [More Fender Telecasters](albums/relic/Telecasters.html)
-* [More Fender Jazzmaster](albums/relic/Jazzmasters.html)
+* [More Fender Jazzmasters](albums/relic/Jazzmasters.html)
